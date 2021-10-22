@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abigail-sokol-the-frog
 - 👀 I’m interested in pretty much everything realated to cs
 - 🌱 I’m currently learning haskell
-- 📫 How to reach me abigail.sokol.the.frog@gmail.com
+- 📫 You can reach me at abigail.sokol.the.frog@gmail.com
